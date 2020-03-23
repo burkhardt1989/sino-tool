@@ -1,3 +1,4 @@
 web/assets
 runtime
 vendor
+config/db.php
